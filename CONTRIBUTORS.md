@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: [ANANT KAMALNAYAN](https://github.com/Anant302)
+- Place: Katra, India
+- Bio: Third Year Computer Science Student
+- GitHub: [Anant302](https://github.com/Anant302)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
